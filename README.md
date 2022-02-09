@@ -6,7 +6,7 @@
 The Dataset contains details about bank customers who are withdrawing their accounts. The dataset includes personal information like Age, Income, Sex, Type of Credit card used.
 
 ### Goal
-The goal of this repository is to predict predict the attrition of the customer after adding noise to the personal details of the customers.
+The goal of this repository is to predict the attrition of the customer after adding noise to the personal details of the customers.
 
 This project addresses the following Data Analysis topics:
 
